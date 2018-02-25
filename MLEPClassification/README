@@ -1,0 +1,43 @@
+How to run the Code:
+The project is done in python 2.7. You will need a python interpreter to run it. 
+The file to be executed is mySubmission.py located in the folder src/
+The training data, testing data and the output  files are located in the directory src/Data
+The main file mySubmission.py has a main method, where the training and testing data is loaded from the files and the data classification method is called.
+Depending on which data sample you want to classify, you will have to modify the variable ‘dataset’( line 34) accordingly. The variable value should be ‘testingDataset’ for running the Testing data, and it has to be ‘trainingDataset’ for running the training data.
+You will also have to accordingly modify the output filename in line number 42. 
+The prior probabilities of of the different classes can be modified in lines 15-17
+
+The classification has been done using the Maximum Likelihood Estimate Approach. The data points are assumed to have a bivariate normal distribution. Hence the task of computing the probability distribution function is reduced to calculating the mean and the covariance matrix for the different class probabilities.
+ 
+The mean and the covariance matrix was calculated for the three classes using the Maximum Likelihood Estimate. The mean and covariance for class 1 is
+
+1 = [ 3.07658099  3.10203062] 
+
+1 = [[ 1.03581949  0.43202819]
+          [ 0.43202819  0.93379996]]
+
+The mean and covariance for class 2 is
+
+2 = [ 1.95205144 -1.01573662] 
+
+2 - [[ 0.9730296   0.06598886]
+         [ 0.06598886  0.92241532]]
+
+The mean and covariance for class 3 normal distribution is 
+
+3 = [-0.06306213  1.93651437]
+
+3 = [[ 0.51447338  0.01512088]
+          [ 0.01512088  0.99378259]]
+
+Assuming the prior probabilities to be ⅓ for all the classes, the data in the training and testing samples was classified with the above parameters. Following were the error rates obtained in different scenarios:
+Error Rate in Classification for training data = 0.13
+Error Rate in Classification for testing data = 0.143
+
+Prior Probability for Class 1 = 0.202 
+Prior Probability for Class 2 = 0.298
+Prior Probability for Class 3 = 0.5
+
+With the above prior probabilities the error rate in classifying the data points with the two sample data sets are -
+Error Rate in Classification for training data = 0.129
+Error Rate in Classification for testing data = 0.138

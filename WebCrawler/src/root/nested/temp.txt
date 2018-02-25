@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<title>Absurdity of Opposing Dynasty Politics. | In The Eye Of The Sky</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://s1.wp.com/wp-content/themes/pub/twentyten/style.css?m=1386301037g" />
+<link rel="pingback" href="http://anirudhacharya89.wordpress.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="In The Eye Of The Sky &raquo; Feed" href="http://anirudhacharya89.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="In The Eye Of The Sky &raquo; Comments Feed" href="http://anirudhacharya89.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="In The Eye Of The Sky &raquo; Absurdity of Opposing Dynasty&nbsp;Politics. Comments Feed" href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/_static/??-eJx9ktFuwyAMRX9ozOoyderDtG8h4BJSgxE4ivL3I8m2tuvGE/daPrYxwJyU4SgYBcKkEk3OxwIleMIlZR7RyL17NqU8wd8Y+QsWGFGSNhe1uYf0nthdAXYOLU+izkzEM8zeOmz2yEha0KrERX65FmY4Y42HpGXNCGi9RsJQ01pYSMdvapVDvddjGxlqnQJp6kHmGlhqFIoshGpOld4BD5HFV6b8iFZnh6yIjRbP8c6oM2mf2ytal1ylg5p1Y1vQusG9NJRB5xX+OttTRsz7pa7yvwUNr+CIe02tivsPKNvku1Yue6t0tPVHleZr3bKO2WbUdpvmI7wfutOp6w4vb8fxE+9QHa8=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/_static/??-eJyFkEsOwjAMRC+ESREL6AJxln7cyCE/4oQKTk9KC4KC6Mp28mYmjug9NM5GtFEoFsbVpBESY6hkPgOynVsrXonMkW10apEHUJ0ThutUFgEwJEMVcW3IPuG3VO84GmTOkT9uP6PIXgj7RUxh9FVzgoBMty/XWjsJXidJlkXuJbYuReic1q4XPbUS41xj0ksRUOdlWhjePZv+qEbbx+eMLdTJeJjWOZrDZlvuin1ZbEt1B+SQmMI='></script>
+<link rel='stylesheet' id='all-css-0' href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://anirudhacharya89.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://anirudhacharya89.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='What are some good exercises in decision&nbsp;making?' href='http://anirudhacharya89.wordpress.com/2014/03/29/what-are-some-good-exercises-in-decision-making/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/' />
+<link rel='shortlink' href='http://wp.me/p17bDG-8d' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fanirudhacharya89.wordpress.com%2F2014%2F04%2F07%2Fabsurdity-of-opposing-dynasty-politics%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fanirudhacharya89.wordpress.com%2F2014%2F04%2F07%2Fabsurdity-of-opposing-dynasty-politics%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Absurdity of Opposing Dynasty Politics." />
+<meta property="og:url" content="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/" />
+<meta property="og:description" content="I recently came across this blog post about how opposing dynastic politics is not a very sound argument against any political leader. I completely agree with the article and for the record, here ar..." />
+<meta property="article:published_time" content="2014-04-07T05:24:05+00:00" />
+<meta property="article:modified_time" content="2014-04-07T05:38:36+00:00" />
+<meta property="article:author" content="http://anirudhacharya89.wordpress.com/author/anirudhacharya/" />
+<meta property="og:site_name" content="In The Eye Of The Sky" />
+<meta property="og:image" content="http://wordpress.com/i/blank.jpg?m=1383295312g" />
+<meta name="twitter:site" content="@anirudhacharya1" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@anirudhacharya1" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311975824g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311975824g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1391188133g" />
+<link rel='openid.server' href='http://anirudhacharya89.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://anirudhacharya89.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://anirudhacharya89.wordpress.com/osd.xml" title="In The Eye Of The Sky" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none !important;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="In The Eye Of The Sky" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Education is the kindling of a flame, not the filling of a vessel" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://anirudhacharya89.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Absurdity of Opposing Dynasty&nbsp;Politics. | In The Eye Of The Sky on WordPress.com" />
+<meta name="description" content="I recently came across this blog post about how opposing dynastic politics is not a very sound argument against any political leader. http://www.kumartalks.com/2014/04/dynastic-politics-and-brand-identity.html I completely agree with the article and for the record, here are my comments for that post: Dynastic politics is not an issue, ineptitude is. Dynastic politics is used as a catch&hellip;" />
+
+<script type='text/javascript' src='//partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+if ( typeof GS_googleAddAdSenseService == 'function' ) { GS_googleAddAdSenseService("ca-pub-3443918307802676"); }
+if ( typeof GS_googleEnableAllServices == 'function' ) { GS_googleEnableAllServices() };
+</script>
+<script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script type="text/javascript">
+try { amznads.getAds("3033","300x250"); } catch(e) { /* ignore */ }
+</script>
+<script type="text/javascript">
+var amznKeys = amznads.getKeys();
+if (typeof amznKeys != "undefined" && amznKeys != "") { for (var i =0; i < amznKeys.length; i++) { var key = amznKeys[i]; GA_googleAddAttr("amzn", key);} }
+document.close();
+</script>
+<script type='text/javascript'>
+if ( typeof GA_googleAddSlot == 'function' ) { GA_googleAddSlot("ca-pub-3443918307802676", "wpcom_below_post"); }
+</script>
+<script type='text/javascript'>
+if ( typeof GA_googleFetchAds == 'function' ) { GA_googleFetchAds(); }
+</script>
+
+<script type="text/javascript">
+var wpcom_ads = { bid: 16489376, pt: 'permalink', wa: 0, as: 0, domain: 'anirudhacharya89.wordpress.com', url: 'http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/', gid: '', };
+</script>
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="single single-post postid-509 single-format-standard mp6 single-author highlander-enabled highlander-light">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a href="http://anirudhacharya89.wordpress.com/" title="In The Eye Of The Sky" rel="home">In The Eye Of The Sky</a>
+					</span>
+				</div>
+				<div id="site-description">Education is the kindling of a flame, not the filling of a vessel</div>
+
+										<a class="home-link" href="http://anirudhacharya89.wordpress.com/" title="In The Eye Of The Sky" rel="home">
+							<img src="http://anirudh2189.wordpress.com/wp-content/themes/pub/twentyten/images/headers/path.jpg?m=1354156339g" width="940" height="198" alt="" />
+						</a>
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li ><a href="http://anirudhacharya89.wordpress.com/">Home</a></li><li class="page_item page-item-2"><a href="http://anirudhacharya89.wordpress.com/about/">About</a></li><li class="page_item page-item-191"><a href="http://anirudhacharya89.wordpress.com/must-reads/">Must Reads</a></li></ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+				<div id="nav-above" class="navigation">
+					<div class="nav-previous"><a href="http://anirudhacharya89.wordpress.com/2014/03/29/what-are-some-good-exercises-in-decision-making/" rel="prev"><span class="meta-nav">&larr;</span> What are some good exercises in decision&nbsp;making?</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-above -->
+
+				<div id="post-509" class="post-509 post type-post status-publish format-standard hentry category-opinion category-politics tag-dynasty-politics tag-india tag-jayant-sinha tag-milind-deora tag-rahul-gandhi tag-sachin-pilot tag-yashwant-sinha">
+											<h2 class="entry-title"><a href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/" rel="bookmark">Absurdity of Opposing Dynasty&nbsp;Politics.</a></h2>					
+					<div class="entry-meta">
+													<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/" title="10:54" rel="bookmark"><span class="entry-date">April 7, 2014</span></a>							<span class="by-author"><span class="sep">by</span> <span class="author vcard"><a class="url fn n" href="http://anirudhacharya89.wordpress.com/author/anirudhacharya/" title="View all posts by Anirudh Acharya" rel="author">Anirudh Acharya</a></span> </span>											</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						<div class="pd-rating" id="pd_rating_holder_4245847_post_509"></div><br/><p>I recently came across this blog post about how opposing dynastic politics is not a very sound argument against any political leader.</p>
+<p><a href="http://www.kumartalks.com/2014/04/dynastic-politics-and-brand-identity.html" rel="nofollow">http://www.kumartalks.com/2014/04/dynastic-politics-and-brand-identity.html</a></p>
+<p>I completely agree with the article and for the record, here are my comments for that post:</p>
+<blockquote><p>Dynastic politics is not an issue, ineptitude is. Dynastic politics is used as a catch phrase to depict scenarios where &#8216;bad products&#8217; get promoted in the name of &#8216;good brand name&#8217;.</p>
+<p>Think about Sachin Pilot or Milind Deora, no one complains so much. They might just mention it, but that can never be the main argument against them. Rahul Gandhi on the other hand has demonstrated tremendous ineptitude and reluctance to be involved in politics. It feels as though he is being retained to en-cash on the &#8216;brand name&#8217; than for any personal worth he may have.</p>
+<p>I agree being against dynastic politics is silly and not possible, but being against ineptitude is not. Making an equivalence with lawyers and doctors is very silly( it is about public and private costs and risks).</p>
+<p>I will give you another example. Jayant Sinha son of ex-FM Yashwant Sinha, went to IIT-Delhi, got admitted into the Ivy league colleges on his merit( his father had not acquired public office by that time), had a successful career in business and consulting and now he is contesting elections on his father&#8217;s ticket. Yes, he got a ticket because because he is Yashwant Sinha&#8217;s son, but his prior achievements are not because of his father. I have no objection to such candidates, and I am sure the majority would not either.</p>
+<p>Now compare this with Rahul Gandhi&#8217;s case, the difference and the absurdity of clubbing all such people under the umbrella of dynastic politics will become apparent.</p>
+<p>Conclusion &#8211; Dynasty is never the problem, ineptitude is. Dynasty is probably the reason for the ineptitude. The people, in general, use Dynasty as a catch phrase to refer to this phenomenon, of dynasty causing the ineptitude.</p></blockquote>
+
+<div class="wpa" style="position: relative; width:300px; text-align: center; padding: 0; margin: 10px auto; overflow: hidden; clear: both;">
+<a style="position: absolute; text-align: left; display: block; font: 9px/1 sans-serif; text-decoration: underline;" href="http://en.wordpress.com/about-these-ads/" rel="nofollow">About these ads</a>
+<script type="text/javascript">
+		var wpcom_adclk_hovering = false;
+		var wpcom_adclk_recorded = false;
+		var wpcom_adclk_theme = "Twenty Ten";
+		var wpcom_adclk_slot = "wpcom_below_post";
+		var wpcom_adclk_network = ( typeof wpcom_adclk_network === "undefined" ) ? "" : wpcom_adclk_network ;
+
+		jQuery(document).ready( function() {
+			function wpcom_adclk_hover_yes() { wpcom_adclk_hovering = true; }
+			function wpcom_adclk_hover_no() { wpcom_adclk_hovering = false; }
+			jQuery(".wpa").click(wpcom_adclk_click);
+			jQuery(".wpa iframe").hover( wpcom_adclk_hover_yes, wpcom_adclk_hover_no );
+			jQuery(".wpa object").hover( wpcom_adclk_hover_yes, wpcom_adclk_hover_no );
+
+			jQuery(window).blur( function() {
+				if ( wpcom_adclk_hovering ) { wpcom_adclk_click(); }
+			});
+		});
+
+		function wpcom_adclk_impression() {
+			var stat_gif = document.location.protocol + "//stats.wordpress.com/g.gif?v=wpcom-no-pv";
+			stat_gif += "&x_ads_imp_theme=" + wpcom_adclk_theme;
+			stat_gif += "&x_ads_imp_placement="+wpcom_adclk_slot;
+			stat_gif += "&x_ads_imp_network=" + wpcom_adclk_network;
+			stat_gif += "&x_ads_imp_theme_network="+wpcom_adclk_theme+"_"+wpcom_adclk_network;
+			new Image().src = stat_gif + "&baba=" + Math.random();
+			return true;
+		}
+
+		function wpcom_adclk_click() {
+			if (wpcom_adclk_recorded) { return true; } // no double counting
+			var stat_gif = document.location.protocol + "//stats.wordpress.com/g.gif?v=wpcom-no-pv";
+			stat_gif += "&x_ads_click_theme=" + wpcom_adclk_theme;
+			stat_gif += "&x_ads_click_placement="+wpcom_adclk_slot;
+			stat_gif += "&x_ads_click_network=" + wpcom_adclk_network;
+			stat_gif += "&x_ads_click_theme_network="+wpcom_adclk_theme+"_"+wpcom_adclk_network;
+
+			new Image().src = stat_gif + "&baba=" + Math.random();
+			wpcom_adclk_recorded = true;
+			var now=new Date(); var end=now.getTime()+250;
+			while(true){now=new Date();if(now.getTime()>end){break;}}
+			return true;
+		}
+	
+if ( typeof GA_googleAddAttr == 'function' ) {
+GA_googleAddAttr("AdOpt", "1");
+GA_googleAddAttr("Origin", "other");
+GA_googleAddAttr("LangId", "1");
+GA_googleAddAttr("Domain", "anirudhacharya89.wordpress.com");
+GA_googleAddAttr("BlogId", "16489376");
+GA_googleAddAttr("PageURL", "http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/");
+GA_googleAddAttr("Autotag", "politics");
+GA_googleAddAttr("Tag", "opinion");
+GA_googleAddAttr("Tag", "politics");
+GA_googleAddAttr("Tag", "dynasty-politics");
+GA_googleAddAttr("Tag", "india");
+GA_googleAddAttr("Tag", "jayant-sinha");
+GA_googleAddAttr("Tag", "milind-deora");
+GA_googleAddAttr("Tag", "rahul-gandhi");
+GA_googleAddAttr("Tag", "sachin-pilot");
+GA_googleAddAttr("Tag", "yashwant-sinha");
+GA_googleAddAttr("theme_bg", "ffffff");
+GA_googleAddAttr("theme_text", "333333");
+GA_googleAddAttr("theme_link", "0066cc");
+GA_googleAddAttr("theme_border", "cccccc");
+GA_googleAddAttr("theme_url", "ff4b33");
+GA_googleAddAdSensePageAttr("google_page_url", "http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/");
+GA_googleFillSlot("wpcom_below_post");
+}
+</script>
+</div>
+<style type="text/css">
+div.wpa>div { margin-top: 1em; } #google_ads_div_wpcom_below_post_adsafe_ad_container { display: block !important; }
+</style>
+<script type="text/javascript">
+jQuery( window ).load( function() {
+    if ( jQuery(".wpa script[src*='virool.com']").length > 0 || jQuery(".wpa script[src*='shareth.ru']").length > 0 || jQuery(".wpa iframe[src*='boomvideo.tv']").length > 0 || jQuery(".wpa iframe[src*='viewablemedia.net']").length > 0 || jQuery(".wpa .sharethrough-placement").length > 0 ) {
+        jQuery( '.wpa' ).css( 'width', '400px' );
+    }
+setTimeout(function(){if(typeof GS_googleAddAdSenseService !== 'function'){new Image().src=document.location.protocol+"//stats.wordpress.com/g.gif?v=wpcom-no-pv&x_noads=adblock&baba="+Math.random()}},100);
+} );
+</script>
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><div class="twitter_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwp.me%2Fp17bDG-8d&#038;counturl=http%3A%2F%2Fanirudhacharya89.wordpress.com%2F2014%2F04%2F07%2Fabsurdity-of-opposing-dynasty-politics%2F&#038;count=horizontal&#038;text=Absurdity%20of%20Opposing%20Dynasty%20Politics.%3A&#038;via=anirudhacharya1&#038;related=wordpressdotcom" style="width:101px; height:20px;"></iframe></div></li><li class="share-facebook"><div class="like_button"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fanirudhacharya89.wordpress.com%2F2014%2F04%2F07%2Fabsurdity-of-opposing-dynasty-politics%2F&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;height=21&amp;locale=en_US&amp;width=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:96px; height:21px;" allowTransparency="true"></iframe></div></li><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/"></div></div></li><li class="share-email"><a rel="nofollow" class="share-email sd-button" href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/" data-counter="right"></script></div></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-16489376-509-5377fe69d493c' data-src='//widgets.wp.com/likes/#blog_id=16489376&amp;post_id=509&amp;origin=anirudhacharya89.wordpress.com&amp;obj_id=16489376-509-5377fe69d493c' data-name='like-post-frame-16489376-509-5377fe69d493c'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>											</div><!-- .entry-content -->
+
+
+					<div class="entry-utility">
+												This entry was posted in <a href="http://anirudhacharya89.wordpress.com/category/opinion/" title="View all posts in Opinion" rel="category tag">Opinion</a>, <a href="http://anirudhacharya89.wordpress.com/category/politics/" title="View all posts in Politics" rel="category tag">Politics</a> and tagged <a href="http://anirudhacharya89.wordpress.com/tag/dynasty-politics/" rel="tag">Dynasty politics</a>, <a href="http://anirudhacharya89.wordpress.com/tag/india/" rel="tag">India</a>, <a href="http://anirudhacharya89.wordpress.com/tag/jayant-sinha/" rel="tag">Jayant Sinha</a>, <a href="http://anirudhacharya89.wordpress.com/tag/milind-deora/" rel="tag">Milind Deora</a>, <a href="http://anirudhacharya89.wordpress.com/tag/rahul-gandhi/" rel="tag">Rahul Gandhi</a>, <a href="http://anirudhacharya89.wordpress.com/tag/sachin-pilot/" rel="tag">Sachin Pilot</a>, <a href="http://anirudhacharya89.wordpress.com/tag/yashwant-sinha/" rel="tag">Yashwant Sinha</a>. Bookmark the <a href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/" title="Permalink to Absurdity of Opposing Dynasty&nbsp;Politics." rel="bookmark">permalink</a>.											</div><!-- .entry-utility -->
+				</div><!-- #post-## -->
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="http://anirudhacharya89.wordpress.com/2014/03/29/what-are-some-good-exercises-in-decision-making/" rel="prev"><span class="meta-nav">&larr;</span> What are some good exercises in decision&nbsp;making?</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+
+				
+			<div id="comments">
+
+
+
+								<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2014/04/07/absurdity-of-opposing-dynasty-politics/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://anirudhacharya89.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										
+
+
+												<input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="38bf835836" /><input type="hidden" name="_wp_http_referer" value="/2014/04/07/absurdity-of-opposing-dynasty-politics/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+			<li>
+			<iframe id="googleplus-sign-in" name="googleplus-sign-in" src="https://public-api.wordpress.com/connect/?googleplus-sign-in=http%3A%2F%2Fanirudhacharya89.wordpress.com" width="24" height="24" scrolling="no" allowtransparency="true" seamless="seamless" frameborder="0"></iframe>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="text" value="" /></div>
+				</div>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png?m=1391188133g" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-googleplus" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&amp;d=identicon&amp;forcedefault=y&amp;r=G" alt="Google+ photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="googleplus_avatar" id="googleplus-avatar" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_user_id" id="googleplus-user_id" class="comment-meta-googleplus" value="" />
+				<input type="hidden" name="googleplus_access_token" id="googleplus-access_token" class="comment-meta-googleplus" value="" />
+				<p class="comment-form-posting-as pa-googleplus"><strong></strong> You are commenting using your Google+ account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'googleplus' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+	
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+}
+jQuery(document).ready( highlander_expando_javascript );
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of follow-up comments via email.</label></p></div>
+
+												<p class="form-submit">
+							<input name="submit" type="submit" id="comment-submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='509' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="bb265633de" /></p>
+<input type="hidden" name="genseq" value="1400372841" />
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="23"/></p>					</form>
+							</div><!-- #respond -->
+			<div style="clear: both"></div>
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+						<ul class="xoxo">
+
+<li id="blog_subscription-4" class="widget-container widget_blog_subscription"><h3 class="widget-title"><label for="subscribe-field">Email Subscription</label></h3>
+				<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+											<p>Join 112 other followers</p>
+						<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" value="" id="subscribe-field"/></p>
+					
+					<p>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="blog_id" value="16489376"/>
+						<input type="hidden" name="source" value="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-4" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="a198dd4fb0" />						<input type="submit" value="Sign me up!" />
+					</p>
+				</form>
+			
+</li><li id="top-posts-3" class="widget-container widget_top-posts"><h3 class="widget-title">Top Posts &amp; Pages</h3><ul class='widgets-list-layout no-grav'>
+					<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2012/09/20/measuring-intelligence/" class="bump-view" data-bump-view="tp">Measuring Intelligence</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/04/13/reviews-of-india-after-gandhi-book/" class="bump-view" data-bump-view="tp">Reviews of: India After Gandhi (book)</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/04/12/reviews-of-clash-of-civilizations/" class="bump-view" data-bump-view="tp">Reviews of: Clash of Civilizations</a></div>
+					</li>
+									<li>
+						<img src="http://i0.wp.com/anirudhacharya89.files.wordpress.com/2013/03/600_117879582.jpeg?resize=40%2C40" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/03/13/honnemardu-diary/" class="bump-view" data-bump-view="tp">Honnemardu Diary</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/04/13/reviews-of-chanakyas-chant/" class="bump-view" data-bump-view="tp">Reviews of: Chanakya&#039;s Chant</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/07/10/caste-or-religion-based-residential-complexes-in-india/" class="bump-view" data-bump-view="tp">How appropriate is it to have caste or religion based residential complexes?</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/07/14/would-sherlock-holmes-be-able-track-down-the-joker/" class="bump-view" data-bump-view="tp">Would Sherlock Holmes be able to deduce the true identity of The Joker?</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/05/13/influential-intellectuals-in-india/" class="bump-view" data-bump-view="tp">People to Follow</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/06/27/philosophical-animated-series/" class="bump-view" data-bump-view="tp">Which is the deepest animated cartoon ever and why?</a></div>
+					</li>
+									<li>
+						<img src="http://2.gravatar.com/avatar/e7725aabafbc35a78e533aa11229c154?s=96&#038;d=identicon&#038;r=G" class='widgets-list-layout-blavatar' />
+						<div class="widgets-list-layout-links"><a href="http://anirudhacharya89.wordpress.com/2013/07/14/why-i-support-modi/" class="bump-view" data-bump-view="tp">Why I support Modi</a></div>
+					</li>
+				</ul>
+</li>		<li id="recent-posts-3" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/">Absurdity of Opposing Dynasty&nbsp;Politics.</a>
+						</li>
+					<li>
+				<a href="http://anirudhacharya89.wordpress.com/2014/03/29/what-are-some-good-exercises-in-decision-making/">What are some good exercises in decision&nbsp;making?</a>
+						</li>
+					<li>
+				<a href="http://anirudhacharya89.wordpress.com/2014/03/29/why-should-someone-blog/">Why should someone&nbsp;blog?</a>
+						</li>
+					<li>
+				<a href="http://anirudhacharya89.wordpress.com/2013/07/27/absentee-ballot/">Absentee Ballot in&nbsp;India</a>
+						</li>
+					<li>
+				<a href="http://anirudhacharya89.wordpress.com/2013/07/27/nehrus-license-raj/">Nehru&#8217;s License Raj</a>
+						</li>
+				</ul>
+		</li><li id="archives-3" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://anirudhacharya89.wordpress.com/2014/04/'> April 2014 &nbsp;(1)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2014/03/'> March 2014 &nbsp;(2)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2013/07/'> July 2013 &nbsp;(5)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2013/06/'> June 2013 &nbsp;(1)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2013/05/'> May 2013 &nbsp;(4)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2013/04/'> April 2013 &nbsp;(3)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2013/03/'> March 2013 &nbsp;(1)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2013/02/'> February 2013 &nbsp;(9)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2012/12/'> December 2012 &nbsp;(2)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2012/10/'> October 2012 &nbsp;(1)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2012/09/'> September 2012 &nbsp;(1)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2012/02/'> February 2012 &nbsp;(1)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2011/06/'> June 2011 &nbsp;(2)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2011/04/'> April 2011 &nbsp;(2)</option>
+	<option value='http://anirudhacharya89.wordpress.com/2011/02/'> February 2011 &nbsp;(1)</option>
+		</select>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<a href="http://anirudhacharya89.wordpress.com/" title="In The Eye Of The Sky" rel="home">
+					In The Eye Of The Sky				</a>
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+				<a href="http://theme.wordpress.com/themes/twentyten/" title="Learn more about this theme">The Twenty Ten Theme</a>.				<a href="http://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>.
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201420x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"http:\/\/anirudhacharya89.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"http:\/\/anirudhacharya89.wordpress.com\/wp-login.php?action=logout&_wpnonce=901bce73f0","homeURL":"http:\/\/anirudhacharya89.wordpress.com\/","postID":"509","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1395185286j'></script>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;In The Eye Of The Sky&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 112 other followers</p>
+			<p><input type="email" name="email" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="16489376"/>
+			<input type="hidden" name="source" value="http://anirudhacharya89.wordpress.com/2014/04/07/absurdity-of-opposing-dynasty-politics/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="a198dd4fb0" /><input type="hidden" name="_wp_http_referer" value="/2014/04/07/absurdity-of-opposing-dynasty-politics/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="http://wordpress.com/signup/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+<script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
+PDRTJS_settings_4245847_post_509={"id":4245847,"unique_id":"wp-post-509","title":"Absurdity%20of%20Opposing%20Dynasty%26nbsp%3BPolitics.","permalink":"http:\/\/anirudhacharya89.wordpress.com\/2014\/04\/07\/absurdity-of-opposing-dynasty-politics\/","item_id":"_post_509"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_4245847_post_509 == 'undefined' ){PDRTJS_4245847_post_509 = new PDRTJS_RATING( PDRTJS_settings_4245847_post_509 );}}
+//--><!]]></script><script type='text/javascript' charset='UTF-8' src='http://i0.poll.fm/js/rating/rating.js'></script>
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {"http:\/\/anirudhacharya89.wordpress.com\/2014\/04\/07\/absurdity-of-opposing-dynasty-politics\/":509}	</script>
+		<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+					<script type="text/javascript">
+			  (function() {
+			    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			    po.src = 'https://apis.google.com/js/plusone.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script>
+				<div id="sharing_email" style="display: none;">
+		<form action="/2014/04/07/absurdity-of-opposing-dynasty-politics/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+			
+			<div class="recaptcha" id="sharing_recaptcha"></div><input type="hidden" name="recaptcha_public_key" id="recaptcha_public_key" value="6LcYW8MSAAAAADBAuEH9yaPcF7lWh11Iq62ZKtoo" />
+			<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type="text/javascript">
+			jQuery( document ).ready( function() {
+			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {
+			        IN.init();
+			    });
+			});
+			jQuery( document.body ).on( 'post-load', function() {
+				if ( typeof IN != 'undefined' )
+					IN.parse();
+			});
+			</script>		<iframe src='http://widgets.wp.com/likes/master.html?ver=20140227#ver=20140227&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var jetpackLikesWidgetQueue = [];
+			var jetpackLikesWidgetBatch = [];
+			var jetpackLikesMasterReady = false;
+
+			function JetpackLikespostMessage( message, target ) {
+				if ( "string" === typeof message ){
+					try{
+						message = JSON.parse( message );
+					}
+					catch(e) {
+						return;
+					}
+				}
+
+				pm( {
+					target: target,
+					type: 'likesMessage',
+					data: message,
+					origin: '*'
+				} );
+			}
+
+			function JetpackLikesBatchHandler() {
+				var requests = [];
+				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
+					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
+						return;
+					jetpackLikesWidgetBatch.push( this.id );
+					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
+					var match = regex.exec( this.id );
+					if ( ! match || match.length != 5 )
+						return;
+
+					var info = {
+						blog_id: match[2],
+						width:   this.width
+					};
+
+					if ( 'post' == match[1] ) {
+						info.post_id = match[3];
+					} else if ( 'comment' == match[1] ) {
+						info.comment_id = match[3];
+					}
+
+					info.obj_id = match[4];
+
+					requests.push( info );
+				});
+
+				if ( requests.length > 0 ) {
+					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
+				}
+			}
+
+			function JetpackLikesMessageListener( event ) {
+				if ( "undefined" == typeof event.event )
+					return;
+
+				if ( 'masterReady' == event.event ) {
+					jQuery( document ).ready( function() {
+						jetpackLikesMasterReady = true;
+
+						var stylesData = {
+								event: 'injectStyles'
+						};
+
+						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
+							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
+
+							stylesData.adminBarStyles = {
+								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
+								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
+							};
+						}
+
+						if ( !window.addEventListener )
+							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
+
+						stylesData.textStyles = {
+							color: jQuery( '.sd-text-color').css( 'color' ),
+							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
+							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
+							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
+							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
+							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
+						};
+
+						stylesData.linkStyles = {
+							color: jQuery( '.sd-link-color' ).css('color'),
+							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
+							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
+							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
+							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
+						};
+
+						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
+
+						JetpackLikesBatchHandler();
+
+						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
+							jetpackLikesWidgetQueue.push( this.id );
+						});
+					});
+				}
+
+				if ( 'showLikeWidget' == event.event ) {
+					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
+						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
+							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
+						});
+					});
+				}
+
+				if ( 'clickReblogFlair' == event.event ) {
+					wpcom_reblog.toggle_reblog_box_flair( event.obj_id );
+				}
+
+				if ( 'showOtherGravatars' == event.event ) {
+					var $container = jQuery( '#likes-other-gravatars' );
+					var $list = $container.find( 'ul' );
+
+					$container.hide();
+					$list.html( '' );
+
+					$container.find( '.likes-text span' ).text( event.total );
+
+					jQuery.each( event.likers, function( i, liker ) {
+						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
+					} );
+
+					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
+
+					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
+					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
+
+					var rowLength = Math.floor( event.width / 37 );
+					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
+					if ( height > 204 ) {
+						height = 204;
+					}
+
+					$container.css( 'height', height + 'px' );
+					$container.css( 'width', rowLength * 37 - 7 + 'px' );
+
+					$list.css( 'width', rowLength * 37 + 'px' );
+
+					$container.fadeIn( 'slow' );
+
+					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
+					if ( scrollbarWidth > 0 ) {
+						$container.width( $container.width() + scrollbarWidth );
+						$list.width( $list.width() + scrollbarWidth );
+					}
+				}
+			}
+
+			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
+
+			jQuery( document ).click( function( e ) {
+				var $container = jQuery( '#likes-other-gravatars' );
+
+				if ( $container.has( e.target ).length === 0 ) {
+					$container.fadeOut( 'slow' );
+				}
+			});
+
+			function JetpackLikesWidgetQueueHandler() {
+				var wrapperID;
+				if ( ! jetpackLikesMasterReady ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				if ( jetpackLikesWidgetQueue.length > 0 ) {
+					// We may have a widget that needs creating now
+					var found = false;
+					while( jetpackLikesWidgetQueue.length > 0 ) {
+						// Grab the first member of the queue that isn't already loading.
+						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
+						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
+							found = true;
+							break;
+						}
+					}
+					if ( ! found ) {
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
+					// Grab any unloaded widgets for a batch request
+					JetpackLikesBatchHandler();
+
+					// Get the next unloaded widget
+					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
+					if ( ! wrapperID ) {
+						// Everything is currently loaded
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				}
+
+				if ( 'undefined' === typeof wrapperID ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				var $wrapper = jQuery( '#' + wrapperID );
+				$wrapper.find( 'iframe' ).remove();
+
+				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				} else {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				}
+
+				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
+
+				$wrapper.find( 'iframe' ).load( function( e ) {
+					var $iframe = jQuery( e.target );
+					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
+
+					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
+
+					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
+					}
+				});
+				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
+			}
+			JetpackLikesWidgetQueueHandler();
+		//]]>
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var recaptcha_options = {"lang":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??-eJx9jEEOwiAQRS8kTJsmRhbGoxhCaR1kBsJA1duLC7au/uK99+GVlUtcPVcIAqs/0Pn81kFO0BGyi2318mMuEXVNFZ/jRxPykEZPTeXYdmQB+0QhX9WiJ7j3E9hSoT9+TlLVFi0WkIctyPvYHt3oOi/GmNlM50v4AgRVQGc='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "anirudhacharya89.wordpress.com";
+	</script>
+	<script type="text/javascript" src="http://s.skimresources.com/js/725X1342.skimlinks.js"></script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'16489376','v':'wpcom','tz':'5','user_id':'0','post':'509','subd':'anirudhacharya89'});
+ex_go({'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRVz1bVXJlWWRQcV0tS0JbTXJxNVVUT0NCeDg2dFpiV21KQWE3bENwdjdDNjU3b0NZQ0s9SERaNTFEQ1l+cVJPWTh4eHNiZ2RVUWVSODJddk5yZjh8TltSWH5DWHZUMC5mdExFMFAmMn45U2VyMnxkcXZvUnZtajJnUnJBJkFbMVgzdEJDQ351anIrVEhmLU89dlljOWV2OTRsVHNiVkkrc0dIRT9LLk0uT1hyZ2N6QSYlaGl+ZTlmSU9JYmk2d2k9MXR2cUx5OVlyMXVxPWM/ciVbRkkyOWR0RUErYndJST1VXVtpWDM/YUpQZ1dFWHxTOUN3Y00rPy55R1ZkL3F1eitsdC1XQ0lGME9NMW5fMjBCJkxqQzFDM1tCcHg='});
+addLoadEvent(function(){linktracker_init('16489376',509);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//stats.wordpress.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

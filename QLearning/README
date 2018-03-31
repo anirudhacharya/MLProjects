@@ -48,9 +48,4 @@ Interpreting the states is straight forward and similar to what is done in the b
 The image files of the different graphs obtained while executing the algorithm is present
 in the folder 'Images'
 
-<<<<<<< HEAD
 The program outputs a policy matrix and utility matrix.
-=======
-If there are any clarifications needed please contact anirudhacharya89@gmail.com
-or aaachary8@asu.edu
->>>>>>> origin/QLearning

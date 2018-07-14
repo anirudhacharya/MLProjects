@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY camera "http://www.xfront.com/owl/ontologies/camera/#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.xfront.com/owl/ontologies/camera/#"
+     xml:base="http://www.xfront.com/owl/ontologies/camera/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:camera="http://www.xfront.com/owl/ontologies/camera/#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.xfront.com/owl/ontologies/camera/">
+        <rdfs:comment>
+        Camera OWL Ontology                           
+                                                                  
+      Author: Roger L. Costello                                   
+      Acknowlegements: Many thanks to the following people for    
+                       their invaluable input:                    
+                          Richard McCullough, Yuzhong Qu,         
+                          Leo Sauermann, Brian McBride and        
+                          Jim Farrugia.                           
+        </rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#body -->
+
+    <owl:ObjectProperty rdf:about="&camera;body">
+        <rdfs:range rdf:resource="&camera;Body"/>
+        <rdfs:domain rdf:resource="&camera;Camera"/>
+        <rdfs:subPropertyOf rdf:resource="&camera;part"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#compatibleWith -->
+
+    <owl:ObjectProperty rdf:about="&camera;compatibleWith">
+        <rdfs:range rdf:resource="&camera;Body"/>
+        <rdfs:domain rdf:resource="&camera;Lens"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#cost -->
+
+    <owl:ObjectProperty rdf:about="&camera;cost">
+        <rdfs:range rdf:resource="&camera;Money"/>
+        <rdfs:domain rdf:resource="&camera;PurchaseableItem"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#lens -->
+
+    <owl:ObjectProperty rdf:about="&camera;lens">
+        <rdfs:domain rdf:resource="&camera;Camera"/>
+        <rdfs:range rdf:resource="&camera;Lens"/>
+        <rdfs:subPropertyOf rdf:resource="&camera;part"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#part -->
+
+    <owl:ObjectProperty rdf:about="&camera;part"/>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#shutter-speed -->
+
+    <owl:ObjectProperty rdf:about="&camera;shutter-speed">
+        <rdfs:domain rdf:resource="&camera;Body"/>
+        <rdfs:range rdf:resource="&camera;Range"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#viewFinder -->
+
+    <owl:ObjectProperty rdf:about="&camera;viewFinder">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:domain rdf:resource="&camera;Camera"/>
+        <rdfs:range rdf:resource="&camera;Viewer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#aperture -->
+
+    <owl:DatatypeProperty rdf:about="&camera;aperture">
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain rdf:resource="&camera;Lens"/>
+        <owl:equivalentProperty rdf:resource="&camera;f-stop"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#currency -->
+
+    <owl:DatatypeProperty rdf:about="&camera;currency">
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain rdf:resource="&camera;Money"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#f-stop -->
+
+    <owl:DatatypeProperty rdf:about="&camera;f-stop">
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain rdf:resource="&camera;Lens"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#focal-length -->
+
+    <owl:DatatypeProperty rdf:about="&camera;focal-length">
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain rdf:resource="&camera;Lens"/>
+        <owl:equivalentProperty rdf:resource="&camera;size"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#max -->
+
+    <owl:DatatypeProperty rdf:about="&camera;max">
+        <rdfs:range rdf:resource="&xsd;float"/>
+        <rdfs:domain rdf:resource="&camera;Range"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#min -->
+
+    <owl:DatatypeProperty rdf:about="&camera;min">
+        <rdfs:range rdf:resource="&xsd;float"/>
+        <rdfs:domain rdf:resource="&camera;Range"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#size -->
+
+    <owl:DatatypeProperty rdf:about="&camera;size">
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain rdf:resource="&camera;Lens"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#units -->
+
+    <owl:DatatypeProperty rdf:about="&camera;units">
+        <rdfs:range rdf:resource="&xsd;string"/>
+        <rdfs:domain rdf:resource="&camera;Range"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Body -->
+
+    <owl:Class rdf:about="&camera;Body">
+        <rdfs:subClassOf rdf:resource="&camera;PurchaseableItem"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#BodyWithNonAdjustableShutterSpeed -->
+
+    <owl:Class rdf:about="&camera;BodyWithNonAdjustableShutterSpeed">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&camera;Body"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&camera;shutter-speed"/>
+                        <owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">0</owl:cardinality>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Camera -->
+
+    <owl:Class rdf:about="&camera;Camera">
+        <rdfs:subClassOf rdf:resource="&camera;PurchaseableItem"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Digital -->
+
+    <owl:Class rdf:about="&camera;Digital">
+        <rdfs:subClassOf rdf:resource="&camera;Camera"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Large-Format -->
+
+    <owl:Class rdf:about="&camera;Large-Format">
+        <rdfs:subClassOf rdf:resource="&camera;Camera"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&camera;body"/>
+                <owl:allValuesFrom rdf:resource="&camera;BodyWithNonAdjustableShutterSpeed"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Lens -->
+
+    <owl:Class rdf:about="&camera;Lens">
+        <rdfs:subClassOf rdf:resource="&camera;PurchaseableItem"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Money -->
+
+    <owl:Class rdf:about="&camera;Money">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#PurchaseableItem -->
+
+    <owl:Class rdf:about="&camera;PurchaseableItem">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Range -->
+
+    <owl:Class rdf:about="&camera;Range">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#SLR -->
+
+    <owl:Class rdf:about="&camera;SLR">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&camera;Camera"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&camera;viewFinder"/>
+                        <owl:hasValue rdf:resource="&camera;ThroughTheLens"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Viewer -->
+
+    <owl:Class rdf:about="&camera;Viewer">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:oneOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="&camera;ThroughTheLens"/>
+                    <rdf:Description rdf:about="&camera;WindowOnTopOfCamera"/>
+                </owl:oneOf>
+            </owl:Class>
+        </owl:equivalentClass>
+    </owl:Class>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#Window -->
+
+    <owl:Class rdf:about="&camera;Window">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#ThroughTheLens -->
+
+    <owl:NamedIndividual rdf:about="&camera;ThroughTheLens">
+        <rdf:type rdf:resource="&camera;Window"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.xfront.com/owl/ontologies/camera/#WindowOnTopOfCamera -->
+
+    <owl:NamedIndividual rdf:about="&camera;WindowOnTopOfCamera">
+        <rdf:type rdf:resource="&camera;Window"/>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

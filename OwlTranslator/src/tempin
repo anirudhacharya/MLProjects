@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:myPizza="http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#">
+    <Ontology rdf:about="http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl"/>
+<Restriction>
+<onProperty rdf:resource="http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#hasTopping"/>
+<someValuesFrom rdf:resource="http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#PepperoniTopping"/>
+</Restriction>
+            
+</rdf:RDF>

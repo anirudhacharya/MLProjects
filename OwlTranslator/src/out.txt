@@ -1,0 +1,102 @@
+%file out.txt
+objects(fishTopping;monPizza;ovenBase;superTopping;thickBase;thurPizza;tuePizza;wedPizza).
+ 
+{americanPizza(I3):objects(I3)}. 
+{cheeseTopping(I3):objects(I3)}. 
+{indianPizza(I3):objects(I3)}. 
+{jalapenoTopping(I3):objects(I3)}. 
+{namedPizza(I3):objects(I3)}. 
+{olivesTopping(I3):objects(I3)}. 
+{pepperoniTopping(I3):objects(I3)}. 
+{pizza(I3):objects(I3)}. 
+{pizzaBase(I3):objects(I3)}. 
+{pizzaDomainConcept(I3):objects(I3)}. 
+{pizzaTopping(I3):objects(I3)}. 
+{tomatoTopping(I3):objects(I3)}. 
+{vegetableTopping(I3):objects(I3)}. 
+{hasBase(I3,I4):objects(I3;I4}. 
+{hasTopping(I3,I4):objects(I3;I4}. 
+
+% fishTopping
+pepperoniTopping(fishTopping). 
+
+% monPizza
+pizza(monPizza). 
+hasTopping(monPizza,fishTopping). 
+hasBase(monPizza,ovenBase). 
+
+% ovenBase
+pizzaBase(ovenBase). 
+
+% superTopping
+cheeseTopping(superTopping). 
+
+% thickBase
+pizzaBase(thickBase). 
+
+% thurPizza
+americanPizza(thurPizza). 
+hasBase(thurPizza,ovenBase). 
+hasTopping(thurPizza,superTopping). 
+
+% tuePizza
+indianPizza(tuePizza). 
+hasTopping(tuePizza,fishTopping). 
+hasBase(tuePizza,thickBase). 
+
+% wedPizza
+pizza(wedPizza). 
+hasTopping(wedPizza,superTopping). 
+hasBase(wedPizza,thickBase). 
+
+![Z0]: (americanPizza(Z0) -> namedPizza(Z0). 
+![Z0]: (americanPizza(Z0) -> . 
+![Z0]: (americanPizza(Z0) -> . 
+
+![Z0]: (cheeseTopping(Z0) -> pizzaTopping(Z0). 
+
+![Z0]: (indianPizza(Z0) -> namedPizza(Z0). 
+![Z0]: (indianPizza(Z0) -> . 
+
+![Z0]: (jalapenoTopping(Z0) -> vegetableTopping(Z0). 
+
+![Z0]: (namedPizza(Z0) -> pizza(Z0). 
+
+![Z0]: (olivesTopping(Z0) -> vegetableTopping(Z0). 
+
+![Z0]: (pepperoniTopping(Z0) -> pizzaTopping(Z0). 
+
+![Z0]: (pizza(Z0) -> pizzaDomainConcept(Z0). 
+![Z0]: (pizza(Z0) -> . 
+![Z0]: (pizza(Z0) -> . 
+
+![Z0]: (pizzaBase(Z0) -> pizzaDomainConcept(Z0). 
+
+
+![Z0]: (pizzaTopping(Z0) -> pizzaDomainConcept(Z0). 
+
+![Z0]: (tomatoTopping(Z0) -> vegetableTopping(Z0). 
+
+![Z0]: (vegetableTopping(Z0) -> pizzaTopping(Z0). 
+
+
+![Z,Z1]: (hasBase(Z,Z1) -> pizza(Z)). 
+
+
+![Z,Z1]: (hasBase(Z,Z1) -> pizzaBase(Z1)). 
+
+
+
+![Z,Z1]: (hasTopping(Z,Z1) -> pizza(Z)). 
+
+
+![Z,Z1]: (hasTopping(Z,Z1) -> pizzaTopping(Z1)). 
+
+
+![Z]: (pizza(Z) -> not pizzaBase(Z)).
+![Z]: (pizza(Z) -> not pizzaTopping(Z)).
+![Z]: (pizzaBase(Z) -> not pizza(Z)).
+![Z]: (pizzaBase(Z) -> not pizzaTopping(Z)).
+![Z]: (pizzaTopping(Z) -> not pizza(Z)).
+![Z]: (pizzaTopping(Z) -> not pizzaBase(Z)).
+

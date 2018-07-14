@@ -1,0 +1,23 @@
+user # 97
+Rated movies: 
+item 83,1983,Silkwood (biography, drama, thriller)
+167,2004,The Chorus (drama, music)
+175,1992,Reservoir Dogs (crime, drama)
+270,2001,Sex and the City: Season 4 (drama, romance, comedy)
+275,2002,Evelyn (drama)
+353,2002,Life or Something Like It (comedy, romance)
+413,2002,Igby Goes Down (comedy, drama)
+
+Suggested movies: (100 users, dimensionality: 5)
+155,1975,The Strongest Man in the World (comedy, fantasy)
+235,1996,Unhook the Stars(drama, romance)
+271,1943,Saludos Amigos(animation,short,family)
+293,2003,Lennon Legend: The Very Best of John Lennon(documentary, music)
+336,1978,The Driver(action, crime, thriller)
+
+Rank alteration with 150 users, dimensionality 5
+8,2004,What the #$*! Do We Know!?(documentary, comedy, drama)
+28,2002,Lilo and Stitch (animation, adventure, comedy)
+52,2002,The Weather Underground (documentary, history, war)
+55,1995,Jade (action, crime, drama)
+58,1996,Dragonheart (action, adventure, drama)

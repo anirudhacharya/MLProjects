@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY myPizza "http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:myPizza="http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#">
+    <Ontology rdf:about="http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#hasBase -->
+
+    <ObjectProperty rdf:about="&myPizza;hasBase">
+        <rdfs:domain rdf:resource="&myPizza;Pizza"/>
+        <rdfs:range rdf:resource="&myPizza;PizzaBase"/>
+    </ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#hasTopping -->
+
+    <ObjectProperty rdf:about="&myPizza;hasTopping">
+        <rdfs:domain rdf:resource="&myPizza;Pizza"/>
+        <rdfs:range rdf:resource="&myPizza;PizzaTopping"/>
+    </ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#AmericanPizza -->
+
+    <Class rdf:about="&myPizza;AmericanPizza">
+        <rdfs:subClassOf rdf:resource="&myPizza;NamedPizza"/>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="&myPizza;hasTopping"/>
+                <someValuesFrom rdf:resource="&myPizza;PepperoniTopping"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="&myPizza;hasTopping"/>
+                <someValuesFrom rdf:resource="&myPizza;TomatoTopping"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#CheeseTopping -->
+
+    <Class rdf:about="&myPizza;CheeseTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;PizzaTopping"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#IndianPizza -->
+
+    <Class rdf:about="&myPizza;IndianPizza">
+        <rdfs:subClassOf rdf:resource="&myPizza;NamedPizza"/>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="&myPizza;hasTopping"/>
+                <someValuesFrom rdf:resource="&myPizza;OlivesTopping"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#JalapenoTopping -->
+
+    <Class rdf:about="&myPizza;JalapenoTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;VegetableTopping"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#NamedPizza -->
+
+    <Class rdf:about="&myPizza;NamedPizza">
+        <rdfs:subClassOf rdf:resource="&myPizza;Pizza"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#OlivesTopping -->
+
+    <Class rdf:about="&myPizza;OlivesTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;VegetableTopping"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#PepperoniTopping -->
+
+    <Class rdf:about="&myPizza;PepperoniTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;PizzaTopping"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#Pizza -->
+
+    <Class rdf:about="&myPizza;Pizza">
+        <rdfs:subClassOf rdf:resource="&myPizza;PizzaDomainConcept"/>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="&myPizza;hasBase"/>
+                <someValuesFrom rdf:resource="&myPizza;PizzaBase"/>
+            </Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <Restriction>
+                <onProperty rdf:resource="&myPizza;hasTopping"/>
+                <someValuesFrom rdf:resource="&myPizza;PizzaTopping"/>
+            </Restriction>
+        </rdfs:subClassOf>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#PizzaBase -->
+
+    <Class rdf:about="&myPizza;PizzaBase">
+        <rdfs:subClassOf rdf:resource="&myPizza;PizzaDomainConcept"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#PizzaDomainConcept -->
+
+    <Class rdf:about="&myPizza;PizzaDomainConcept"/>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#PizzaTopping -->
+
+    <Class rdf:about="&myPizza;PizzaTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;PizzaDomainConcept"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#TomatoTopping -->
+
+    <Class rdf:about="&myPizza;TomatoTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;VegetableTopping"/>
+    </Class>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#VegetableTopping -->
+
+    <Class rdf:about="&myPizza;VegetableTopping">
+        <rdfs:subClassOf rdf:resource="&myPizza;PizzaTopping"/>
+    </Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#FishTopping -->
+
+    <NamedIndividual rdf:about="&myPizza;FishTopping">
+        <rdf:type rdf:resource="&myPizza;PepperoniTopping"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#MonPizza -->
+
+    <NamedIndividual rdf:about="&myPizza;MonPizza">
+        <rdf:type rdf:resource="&myPizza;Pizza"/>
+        <myPizza:hasTopping rdf:resource="&myPizza;FishTopping"/>
+        <myPizza:hasBase rdf:resource="&myPizza;OvenBase"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#OvenBase -->
+
+    <NamedIndividual rdf:about="&myPizza;OvenBase">
+        <rdf:type rdf:resource="&myPizza;PizzaBase"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#SuperTopping -->
+
+    <NamedIndividual rdf:about="&myPizza;SuperTopping">
+        <rdf:type rdf:resource="&myPizza;CheeseTopping"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#ThickBase -->
+
+    <NamedIndividual rdf:about="&myPizza;ThickBase">
+        <rdf:type rdf:resource="&myPizza;PizzaBase"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#ThurPizza -->
+
+    <NamedIndividual rdf:about="&myPizza;ThurPizza">
+        <rdf:type rdf:resource="&myPizza;AmericanPizza"/>
+        <myPizza:hasBase rdf:resource="&myPizza;OvenBase"/>
+        <myPizza:hasTopping rdf:resource="&myPizza;SuperTopping"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#TuePizza -->
+
+    <NamedIndividual rdf:about="&myPizza;TuePizza">
+        <rdf:type rdf:resource="&myPizza;IndianPizza"/>
+        <myPizza:hasTopping rdf:resource="&myPizza;FishTopping"/>
+        <myPizza:hasBase rdf:resource="&myPizza;ThickBase"/>
+    </NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/anirudh/ontologies/2014/3/myPizza.owl#WedPizza -->
+
+    <NamedIndividual rdf:about="&myPizza;WedPizza">
+        <rdf:type rdf:resource="&myPizza;Pizza"/>
+        <myPizza:hasTopping rdf:resource="&myPizza;SuperTopping"/>
+        <myPizza:hasBase rdf:resource="&myPizza;ThickBase"/>
+    </NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <members rdf:parseType="Collection">
+            <rdf:Description rdf:about="&myPizza;Pizza"/>
+            <rdf:Description rdf:about="&myPizza;PizzaBase"/>
+            <rdf:Description rdf:about="&myPizza;PizzaTopping"/>
+        </members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

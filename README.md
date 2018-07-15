@@ -1,6 +1,6 @@
 ## MLProjects
 
-This is a collection of mostly AI related projects which includes 
+This is a collection of my implementations of various papers and algorithms, mostly AI related -
 - Probabilistic Graphical Models( Latent Dirichlet Allocation)
 - Converter from OWL ontology to First order logic semantics
 - Policy iteration and value iteration in MDPs and Q-Learning.
